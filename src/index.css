@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'inter';
-  src: local('inter'), url(fonts/Inter.ttf) format('truetype');
+  src: local('inter'), url(/fonts/Inter.ttf) format('truetype');
 }
 @font-face {
   font-family: 'ionb';
-  src: local('ionb'), url(fonts/IONB-Black.woff2) format('woff2');
+  src: local('ionb'), url(/fonts/IONB-Black.woff2) format('woff2');
 }
 
 
